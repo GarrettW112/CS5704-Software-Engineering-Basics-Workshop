@@ -1,0 +1,3 @@
+I primarily use VSCode for my coding work.  This is because it was my first coding IDE and has not let me down in any meaningful way.
+I have had limited need to use terminal based editors.  I know that I have had to use vim before, but I cannot remember what it was for.
+Terminal based editors are much more tedious to use than modern editors.  However, they are many situations where the terminal is the option for communicating with a computer.
